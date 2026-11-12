@@ -1,4 +1,8 @@
- # 🏥 Patient Data Analytics Dashboard | Power BI
+<p align="center">
+  <img src="patient_logo.png" width="120" alt="Patient Analytics logo">
+</p>
+
+# 🏥 Patient Data Analytics Dashboard | Power BI
 
 An interactive healthcare analytics dashboard analyzing patient demographics, medical conditions, hospital visits, and treatment outcomes.
 
