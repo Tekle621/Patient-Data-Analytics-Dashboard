@@ -12,6 +12,31 @@ This project uses a synthetic dataset of approximately 2,700 patients and 12,000
 
 ## 📊 Dashboard Pages
 
+### 1. Patient Summary
+Patient demographics, regions, cities, age and primary diagnosis.
+
+![Summary](screenshots/1-summary.png)
+
+### 2. Age Group Distribution
+Patient distribution by age, gender and diagnosis.
+
+![Age Group Distribution](screenshots/2-age-group.png)
+
+### 3. Visits Summary
+Hospital visits by diagnosis and age group.
+
+![Visits Summary](screenshots/3-visits.png)
+
+### 4. Age and Primary Diagnosis
+Patient and hospital visit analysis.
+
+![Age and Primary Diagnosis](screenshots/4-age-diagnosis.png)
+
+### 5. Patient Treatment Plan
+Medications, laboratory results and treatment information.
+
+![Patient Treatment Plan](screenshots/5-treatment.png)
+
 1. Patient Summary – Patient demographics, regions, cities, age and primary diagnosis.
 2. Age Group Distribution – Patient distribution by age, gender and diagnosis.
 3. Visits Summary – Hospital visits by diagnosis and age group.
